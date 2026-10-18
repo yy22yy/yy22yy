@@ -12,6 +12,10 @@ Reading code · Running experiments · Documenting what I learn
 
 ## Tech Stack
 
+[![AI Agents](assets/badges/ai-agents.svg)](https://github.com/yy22yy/go-campus)
+[![Agent Skills](assets/badges/agent-skills.svg)](https://agentskills.io/)
+[![MCP](https://img.shields.io/badge/MCP-222222?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
